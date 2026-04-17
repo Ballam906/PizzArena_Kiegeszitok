@@ -1,5 +1,3 @@
-**Itt található a PizzArena backendje és hozzá tartozó tesztek, valamint az adatbázis struktúra képe és a dump fájl az adatbazis nevű mappában!**
-
 # PizzArena Github oldala
 
 #Ez a projekt fő github repója. Itt megtalálható az összes dokumentáció, szerkezetrajz. A projekt többi része a lap alján található repókban vannak. Az adatbázis dump fájl és struktúra képe a Backend/adatbazis repóba található.
