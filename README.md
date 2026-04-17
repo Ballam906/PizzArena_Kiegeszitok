@@ -4,9 +4,9 @@
 
 A projekt részletesebb leírása a PizzArenaDokumentacio fájlban van.
 
-# PizzAréna Asztali Admin Alkalmazás: 
+**PizzAréna Asztali Admin Alkalmazás:** 
 [https://github.com/Ballam906/PizzArena_Asztali](https://github.com/Ballam906/PizzArena_Asztali)
-# PizzAréna Backend:
+**PizzAréna Backend:**
 [https://github.com/Ballam906/PizzArena_Backend](https://github.com/Ballam906/PizzArena_Backend)
-# PizzAréna Frontend Weboldal:
+**PizzAréna Frontend Weboldal**
 [https://github.com/Ballam906/PizzArena_Frontend](https://github.com/Ballam906/PizzArena_Frontend)
