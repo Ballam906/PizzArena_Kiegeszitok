@@ -1,6 +1,6 @@
 # PizzAréna Github oldala
 
-**Ez a projekt fő github repója. Itt megtalálható az összes dokumentáció, szerkezetrajz. A projekt többi része a lap alján található repókban vannak. Az adatbázis dump fájl és struktúra képe a Backend/adatbazis repóba található.**
+**Ez a projekt fő github repója. Itt megtalálható az összes dokumentáció, szerkezetrajz. A projekt többi része a lap alján található repókban vannak. Az adatbázis dump fájl és struktúra-terv képe a Backend/adatbazis repóba található.**
 
 A projekt részletesebb leírása a PizzArenaDokumentacio fájlban van.
 
